@@ -1,3 +1,8 @@
+# _Archived_
+
+> Just download all fonts: https://github.com/google/fonts/archive/main.zip (/ofl) from https://github.com/google/fonts
+
+
 # Google Fonts Downloader
 
 *Downloads the most popular fonts from Google Fonts for local use.*
